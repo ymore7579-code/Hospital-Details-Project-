@@ -64,6 +64,27 @@ filters for interactive exploration
 -   Improve accessibility with consistent colors, labels, and tooltips.
 -   Document the data source, refresh process, and any assumptions.
 
+## images of dashboards
+
+# Dashboard 1
+
+<img width="577" height="324" alt="Screenshot 2026-10-27 121331" src="https://github.com/user-attachments/assets/f03ea15c-210e-4b92-a0dc-ca3163ad065a" />
+
+# Dashboard 2 
+
+<img width="578" height="325" alt="Screenshot 2026-10-27 121431" src="https://github.com/user-attachments/assets/5fec8f29-ea4e-4037-9462-ed3c60e12365" />
+
+# Dashboard 3
+
+<img width="581" height="325" alt="Screenshot 2026-10-27 121457" src="https://github.com/user-attachments/assets/e7d8f22c-1f36-408d-a7cd-c4252972e60f" />
+
+# Dashboard 4 
+
+<img width="576" height="323" alt="Screenshot 2026-10-27 121528" src="https://github.com/user-attachments/assets/1e30dbe6-532d-4770-8d69-19ba55085391" />
+
+# dashboard 5 
+<img width="578" height="322" alt="Screenshot 2026-10-27 121557" src="https://github.com/user-attachments/assets/020b843b-db88-4b41-b980-a2232647ce1f" />
+
 ## Author
 
 **Yogesh Ganpat More**
